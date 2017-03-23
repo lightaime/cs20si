@@ -1,2 +1,4 @@
 # cs20si
-cs20si learning note
+standford cs20si learning notes by lightaime
+
+Email: lightaime@gmail.com
